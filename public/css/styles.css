@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Rubik+Mono+One&family=Spline+Sans+Mono:ital,wght@0,300;0,400;1,700&display=swap');
+
+body{
+    margin: 0 auto;
+    font-family: 'Spline Sans Mono', monospace;
+}
+
+.myCon1{
+    padding: 5% 0 5% 15%;
+}
+
+.postInfo{
+    padding-top: 5%;
+}
+
+.navbar-brand{
+    font-family: 'Major Mono Display', monospace;
+    color: rgb(91, 91, 91);
+}
+
+.NamesAll, .HomeTitle, .About{
+    font-family: 'Rubik Mono One', monospace;
+}
+
+.Names1{
+    padding-bottom: 2%;
+}
+.Body1{
+   padding-right: 40%;
+}
+
+.navbar{
+    background-color: rgb(222, 225, 228);
+    padding: 10px;
+}
+
+.d1, .d2{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+.myCon2{
+   padding-top: 10%;
+    text-align: center;
+}
+
+.myCon3{
+    padding: 5% 15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.myForm{
+    padding: 5% 15%;
+}
+
+form{
+    padding-left: 5%;
+}
+.compose{
+    padding-left: 5%;
+}
+
+.secondSection{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10% 15%;
+}
+
+ ul{
+    list-style: none;
+}
+
+.footerP{
+    padding-top: 25%;
+    text-align: center;
+}
